@@ -1,0 +1,12 @@
+<JavaCardConfiguration name="basic">
+    <Config activeconfig="basic">
+        <ConfigItem name="basic">
+            <InstallConfig>
+                <PKG project_name="basic" pkg_name="com.ujjwal.src" aid="A0 00 00 00 00 01">
+                    <APPLET aid="A0 00 00 00 00 01 10" name="Basic" />
+                </PKG>
+            </InstallConfig>
+            <ScriptConfig before_build="" after_build="" />
+        </ConfigItem>
+    </Config>
+</JavaCardConfiguration>

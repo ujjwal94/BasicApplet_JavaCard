@@ -1,0 +1,20 @@
+<JavaCardSolution name="basic">
+    <JavaCardProjects>
+        <JavaCardProject path="basic/basic.jcproj" />
+    </JavaCardProjects>
+    <Build>
+        <BuildDependon />
+    </Build>
+    <Config activeconfig="basic" ATR="3B 90 95 80 81 1F 03 18">
+        <ConfigItem name="basic">
+            <InstallConfig>
+                <PKG project_name="basic" pkg_name="com.ujjwal.src" aid="A0 00 00 00 00 01" major="1" minor="0">
+                    <APPLET aid="A0 00 00 00 00 01 10" authority="" instanceaid="" parameter="" privileges="" index="29712" name="Basic" />
+                </PKG>
+            </InstallConfig>
+            <DebugInfo>
+                <Protocol name="T1" />
+            </DebugInfo>
+        </ConfigItem>
+    </Config>
+</JavaCardSolution>
